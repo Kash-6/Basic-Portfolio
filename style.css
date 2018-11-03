@@ -83,7 +83,7 @@ body { background-image: url(assets/images/vintage-concrete.png);
       margin: 30px auto;
       width: 960px;
       background-color:#ffffff;   
-      min-height: 100%;   
+      min-height: 850px;   
       height:120%;
       border: solid #dddddd 2px;
 }
